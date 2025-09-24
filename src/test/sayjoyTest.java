@@ -1,4 +1,4 @@
-package here;
+package test;
 
 public class sayjoyTest {
 	public static void main(String[] args) {
